@@ -6,7 +6,7 @@
 		<uni-link :href="href" :text="href"></uni-link>
 		
 		<text> 寄吧</text>
-		<p>jjjj</p>
+		<text> 你就是个寄吧</text>
 	</view>
 </template>
 
